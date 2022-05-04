@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ConstrainLayoutActivityMain" type="id" />
+    <item name="guideline4" type="id" />
+    <item name="guideline5" type="id" />
+    <item name="guideline6" type="id" />
+    <item name="guideline7" type="id" />
+    <item name="imgV1" type="id" />
+    <item name="imgV2" type="id" />
+    <item name="img0" type="id" />
+    <item name="img1" type="id" />
+    <item name="imgH1" type="id" />
+    <item name="guideline8" type="id" />
+    <item name="guideline9" type="id" />
+    <item name="imgH2" type="id" />
+    <item name="img3" type="id" />
+    <item name="img4" type="id" />
+    <item name="img2" type="id" />
+    <item name="img5" type="id" />
+    <item name="img6" type="id" />
+    <item name="img7" type="id" />
+    <item name="img8" type="id" />
+</resources>
